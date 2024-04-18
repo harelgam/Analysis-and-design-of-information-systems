@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AE15B3E1-D422-4341-89A0-2DAD2BB3EF05}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Group4</RootNamespace>
+    <AssemblyName>Group4</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEmployee.designer.cs">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSupplier.Designer.cs">
+      <DependentUpon>AddSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Choose recommendedSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Choose recommendedSupplier.Designer.cs">
+      <DependentUpon>Choose recommendedSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateItemForm.designer.cs">
+      <DependentUpon>CreateItemForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateManagTasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateManagTasks.designer.cs">
+      <DependentUpon>CreateManagTasks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateTask.designer.cs">
+      <DependentUpon>CreateTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteItemForm.designer.cs">
+      <DependentUpon>DeleteItemForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs" />
+    <Compile Include="EmployeeData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeData.designer.cs">
+      <DependentUpon>EmployeeData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeManagement.designer.cs">
+      <DependentUpon>EmployeeManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_Archive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee_Archive.designer.cs">
+      <DependentUpon>Employee_Archive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gender.cs" />
+    <Compile Include="GoodsManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GoodsManagementForm.Designer.cs">
+      <DependentUpon>GoodsManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoodsOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GoodsOperation.designer.cs">
+      <DependentUpon>GoodsOperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsertItemsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertItemsForm.Designer.cs">
+      <DependentUpon>InsertItemsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Item.cs" />
+    <Compile Include="ItemInOrder.cs" />
+    <Compile Include="ItemsInHoldForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemsInHoldForm.designer.cs">
+      <DependentUpon>ItemsInHoldForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemsInOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemsInOrderForm.Designer.cs">
+      <DependentUpon>ItemsInOrderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginMenu.designer.cs">
+      <DependentUpon>LoginMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order.cs" />
+    <Compile Include="Priority.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RateSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RateSupplier.Designer.cs">
+      <DependentUpon>RateSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReasonForHoldForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReasonForHoldForm.designer.cs">
+      <DependentUpon>ReasonForHoldForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Role.cs" />
+    <Compile Include="SAD_4DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_4DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Specialization.cs" />
+    <Compile Include="SQL_CON.cs" />
+    <Compile Include="Supplier.cs" />
+    <Compile Include="SupplierManagementcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierManagementcs.Designer.cs">
+      <DependentUpon>SupplierManagementcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Task.cs" />
+    <Compile Include="TaskManagmentOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaskManagmentOperation.designer.cs">
+      <DependentUpon>TaskManagmentOperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaskOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaskOperation.designer.cs">
+      <DependentUpon>TaskOperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateEmployee.designer.cs">
+      <DependentUpon>UpdateEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateItemForm.designer.cs">
+      <DependentUpon>UpdateItemForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateManagTasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateManagTasks.designer.cs">
+      <DependentUpon>UpdateManagTasks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateSupplier.Designer.cs">
+      <DependentUpon>UpdateSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateTask.designer.cs">
+      <DependentUpon>UpdateTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View SupplierDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View SupplierDetails.Designer.cs">
+      <DependentUpon>View SupplierDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewItemsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewItemsForm.Designer.cs">
+      <DependentUpon>ViewItemsForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddEmployee.resx">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSupplier.resx">
+      <DependentUpon>AddSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Choose recommendedSupplier.resx">
+      <DependentUpon>Choose recommendedSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateItemForm.resx">
+      <DependentUpon>CreateItemForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateManagTasks.resx">
+      <DependentUpon>CreateManagTasks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateTask.resx">
+      <DependentUpon>CreateTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteItemForm.resx">
+      <DependentUpon>DeleteItemForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeData.resx">
+      <DependentUpon>EmployeeData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeManagement.resx">
+      <DependentUpon>EmployeeManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee_Archive.resx">
+      <DependentUpon>Employee_Archive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GoodsManagementForm.resx">
+      <DependentUpon>GoodsManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GoodsOperation.resx">
+      <DependentUpon>GoodsOperation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertItemsForm.resx">
+      <DependentUpon>InsertItemsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemsInHoldForm.resx">
+      <DependentUpon>ItemsInHoldForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemsInOrderForm.resx">
+      <DependentUpon>ItemsInOrderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginMenu.resx">
+      <DependentUpon>LoginMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RateSupplier.resx">
+      <DependentUpon>RateSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReasonForHoldForm.resx">
+      <DependentUpon>ReasonForHoldForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierManagementcs.resx">
+      <DependentUpon>SupplierManagementcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaskManagmentOperation.resx">
+      <DependentUpon>TaskManagmentOperation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaskOperation.resx">
+      <DependentUpon>TaskOperation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateEmployee.resx">
+      <DependentUpon>UpdateEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateItemForm.resx">
+      <DependentUpon>UpdateItemForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateManagTasks.resx">
+      <DependentUpon>UpdateManagTasks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateSupplier.resx">
+      <DependentUpon>UpdateSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateTask.resx">
+      <DependentUpon>UpdateTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View SupplierDetails.resx">
+      <DependentUpon>View SupplierDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewItemsForm.resx">
+      <DependentUpon>ViewItemsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SAD_4DataSet.xsc">
+      <DependentUpon>SAD_4DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_4DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_4DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_4DataSet.xss">
+      <DependentUpon>SAD_4DataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-menu-vector-2595166.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainMenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\taskOperation2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employeeManagement1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Supplier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chooseRecommended.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rate.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-menu-vector-25951661.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaskOperationMenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\createTask.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updateTask.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\managerTaskPic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\createTaskManager.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GoodsIcon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaskUpdataManager.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goodsOperation.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InsertItemsForm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ItemsInHold.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ItemsInOrder.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GoodsManagementForm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewItemsForm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewItemsForm2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UpdateItemForm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CreateItemForm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EmployeeManagementForm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddEmployeeForm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddEmployeeForm1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EmployeeArchiveForm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SupplierManagementForm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddSupplierForm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddSupplierForm1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeleteItemForm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeleteItemForm3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chooseRecommendedSupplier.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewSupplierDetails.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RateSupplierForm.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

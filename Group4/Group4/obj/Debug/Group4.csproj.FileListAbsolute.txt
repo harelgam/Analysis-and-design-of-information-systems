@@ -1,0 +1,134 @@
+S:\nituzproject\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+S:\nituzproject\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.Cache
+S:\nituzproject\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+S:\nituzproject\Group4\Group4\bin\Debug\Group4.exe.config
+S:\nituzproject\Group4\Group4\bin\Debug\Group4.exe
+S:\nituzproject\Group4\Group4\bin\Debug\Group4.pdb
+S:\nituzproject\Group4\Group4\obj\Debug\Group4.exe
+S:\nituzproject\Group4\Group4\obj\Debug\Group4.pdb
+S:\nituzproject\Group4\Group4\obj\Debug\Group4.csprojResolveAssemblyReference.cache
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\obj\Debug\Group4.csprojResolveAssemblyReference.cache
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\obj\Debug\Group4.CreateSelfTask.resources
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\obj\Debug\Group4.EmployeeData.resources
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\obj\Debug\Group4.LoginMenu.resources
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\obj\Debug\Group4.MainMenu.resources
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\obj\Debug\Group4.TaskOperation.resources
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.Cache
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\obj\Debug\Group4.exe
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\obj\Debug\Group4.pdb
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\bin\Debug\Group4.exe.config
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\bin\Debug\Group4.exe
+C:\Users\dotanber\Desktop\nituzproject\Group4\Group4\bin\Debug\Group4.pdb
+S:\Group4\Group4\bin\Debug\Group4.exe.config
+S:\Group4\Group4\bin\Debug\Group4.exe
+S:\Group4\Group4\bin\Debug\Group4.pdb
+S:\Group4\Group4\obj\Debug\Group4.csprojResolveAssemblyReference.cache
+S:\Group4\Group4\obj\Debug\Group4.EmployeeData.resources
+S:\Group4\Group4\obj\Debug\Group4.LoginMenu.resources
+S:\Group4\Group4\obj\Debug\Group4.MainMenu.resources
+S:\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+S:\Group4\Group4\obj\Debug\Group4.TaskOperation.resources
+S:\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.Cache
+S:\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+S:\Group4\Group4\obj\Debug\Group4.exe
+S:\Group4\Group4\obj\Debug\Group4.pdb
+S:\Group4\Group4\obj\Debug\Group4.RateSupplier.resources
+S:\Group4\Group4\obj\Debug\Group4.GoodsManagementForm.resources
+S:\Group4\Group4\obj\Debug\Group4.ViewItemsForm.resources
+S:\Group4\Group4\obj\Debug\Group4.InsertItemsForm.resources
+S:\Group4\Group4\obj\Debug\Group4.ItemsInOrderForm.resources
+S:\Group4\Group4\obj\Debug\Group4.AddEmployee.resources
+S:\Group4\Group4\obj\Debug\Group4.EmployeeManagement.resources
+S:\Group4\Group4\obj\Debug\Group4.CreateManagTasks.resources
+S:\Group4\Group4\obj\Debug\Group4.CreateTask.resources
+S:\Group4\Group4\obj\Debug\Group4.TaskManagmentOperation.resources
+S:\Group4\Group4\obj\Debug\Group4.UpdateTask.resources
+S:\Group4\Group4\obj\Debug\Group4.Employee_Archive.resources
+S:\Group4\Group4\obj\Debug\Group4.UpdateEmployee.resources
+S:\Group4\Group4\obj\Debug\Group4.Choose_recommendedSupplier.resources
+S:\Group4\Group4\obj\Debug\Group4.view_SupplierDetails.resources
+S:\Group4\Group4\obj\Debug\Group4.SupplierManagementcs.resources
+S:\Group4\Group4\obj\Debug\Group4.AddSupplier.resources
+S:\Group4\Group4\obj\Debug\Group4.UpdateSupplier.resources
+S:\Group4\Group4\obj\Debug\Group4.CreateItemForm.resources
+S:\Group4\Group4\obj\Debug\Group4.ReasonForHoldForm.resources
+S:\Group4\Group4\obj\Debug\Group4.updateManagTasks.resources
+F:\פרויקט ניתוץ\Group4\Group4\bin\Debug\Group4.exe.config
+F:\פרויקט ניתוץ\Group4\Group4\bin\Debug\Group4.exe
+F:\פרויקט ניתוץ\Group4\Group4\bin\Debug\Group4.pdb
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.csprojResolveAssemblyReference.cache
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.AddEmployee.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.AddSupplier.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.Choose_recommendedSupplier.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.CreateItemForm.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.CreateManagTasks.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.CreateTask.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.EmployeeData.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.EmployeeManagement.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.Employee_Archive.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.GoodsManagementForm.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.InsertItemsForm.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.ItemsInOrderForm.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.LoginMenu.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.MainMenu.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.RateSupplier.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.ReasonForHoldForm.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.SupplierManagementcs.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.TaskManagmentOperation.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.TaskOperation.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.UpdateEmployee.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.updateManagTasks.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.UpdateSupplier.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.UpdateTask.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.view_SupplierDetails.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.ViewItemsForm.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.Cache
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.exe
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.pdb
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.DeleteItemForm.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.GoodsOperation.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.ItemsInHoldForm.resources
+F:\פרויקט ניתוץ\Group4\Group4\obj\Debug\Group4.UpdateItemForm.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\bin\Debug\Group4.exe.config
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\bin\Debug\Group4.exe
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\bin\Debug\Group4.pdb
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.csproj.AssemblyReference.cache
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.csproj.SuggestedBindingRedirects.cache
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.AddEmployee.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.AddSupplier.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.Choose_recommendedSupplier.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.CreateItemForm.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.CreateManagTasks.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.CreateTask.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.DeleteItemForm.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.EmployeeData.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.EmployeeManagement.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.Employee_Archive.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.GoodsManagementForm.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.GoodsOperation.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.InsertItemsForm.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.ItemsInHoldForm.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.ItemsInOrderForm.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.LoginMenu.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.MainMenu.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.RateSupplier.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.ReasonForHoldForm.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.SupplierManagementcs.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.TaskManagmentOperation.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.TaskOperation.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.UpdateEmployee.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.UpdateItemForm.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.UpdateManagTasks.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.UpdateSupplier.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.UpdateTask.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.view_SupplierDetails.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.ViewItemsForm.resources
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.cache
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.exe
+C:\שנה ב'\סמסטר ב\ניתוץ\פרוייקט סופי שלנו\Group4\Group4\Group4\obj\Debug\Group4.pdb
